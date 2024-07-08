@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HNG-task-two/static/css/main.4f81a563.css",
+    "main.js": "/HNG-task-two/static/js/main.458e2eb6.js",
+    "static/media/DO_07706.jpg": "/HNG-task-two/static/media/DO_07706.e4613c2d49ad1f93516f.jpg",
+    "static/media/DO_07681.jpg": "/HNG-task-two/static/media/DO_07681.96c55493e2f7aaa430e5.jpg",
+    "static/media/IMG_0585-removebg.png": "/HNG-task-two/static/media/IMG_0585-removebg.23ad526add5099372ea0.png",
+    "static/media/IMG_0581.JPG": "/HNG-task-two/static/media/IMG_0581.a81a566d9028992317be.JPG",
+    "static/media/ps6-removebg-preview.png": "/HNG-task-two/static/media/ps6-removebg-preview.ff5df9a6a1e4e1b8c427.png",
+    "static/media/ps1-removebg-preview.png": "/HNG-task-two/static/media/ps1-removebg-preview.32a99c0d4068a628f191.png",
+    "static/media/ps3-removebg-preview.png": "/HNG-task-two/static/media/ps3-removebg-preview.6c520b718f49ceca1ff0.png",
+    "static/media/ps4-removebg-preview.png": "/HNG-task-two/static/media/ps4-removebg-preview.227dafef4f7741c75114.png",
+    "index.html": "/HNG-task-two/index.html",
+    "main.4f81a563.css.map": "/HNG-task-two/static/css/main.4f81a563.css.map",
+    "main.458e2eb6.js.map": "/HNG-task-two/static/js/main.458e2eb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f81a563.css",
+    "static/js/main.458e2eb6.js"
+  ]
+}
