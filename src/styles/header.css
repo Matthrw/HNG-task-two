@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+}
+.first_header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: #f7f0f0;
+}
+
+.logo {
+  background-color: #e97476;
+  color: white;
+  font-size: 10px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 7px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search_icon,
+.bag_icon,
+.user_icon {
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.merged_icon .user_icon {
+  padding-right: 40px;
+}
+
+.second_header {
+  background-color: red;
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul li {
+  display: inline-block;
+  padding: 20px 50px 20px 0;
+  font-size: 20px;
+}

@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.products {
+  width: 100%;
+}
+.product_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.products h2 {
+  text-align: center;
+  padding: 40px 0px 20px 0px;
+}
+.product_item img {
+  width: 200px;
+  height: 200px;
+}
+
+.image_container {
+  background-color: rgba(236, 39, 39, 0.1);
+  width: 100%;
+  padding: 50px;
+}
+
+.product_item {
+  margin: 5px 0 15px 0;
+}
+
+.product_item h3,
+p {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.product_item p {
+  color: red;
+}
